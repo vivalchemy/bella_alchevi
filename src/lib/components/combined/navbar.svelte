@@ -15,7 +15,7 @@
   {#if scroll > 480}
     <Button
       variant="ghost"
-      class="font-serif text-2xl transition duration-1000 ease-in-out text-amber-200 hover:text-amber-200 hover:bg-slate-700 bg-slate-900"
+      class="font-serif text-2xl transition text-amber-200 hover:text-amber-200 hover:bg-slate-700 bg-slate-900"
     >
       BELLA ALCHEVI
     </Button>
