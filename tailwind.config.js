@@ -9,9 +9,9 @@ const config = {
 			center: true,
 			padding: "2rem",
 			screens: {
-        sm: { min: "0px", max: "640px" },
-        md: { min: "641px", max: "1080px" },
-        lg: { min: "1080px", max: "1440px" },
+        desk: { min: "1081px", max: "1440px" },
+        tab: { min: "641px", max: "1080px" },
+        mob: { min: "0px", max: "640px" },
       },
 		},
 		extend: {
