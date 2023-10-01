@@ -1,3 +1,4 @@
+>Note: All the assets were taken from pexels.com and don't belong to me.
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
